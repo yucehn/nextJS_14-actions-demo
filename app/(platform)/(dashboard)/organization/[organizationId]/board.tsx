@@ -1,5 +1,5 @@
 import { deleteBoard } from "@/actions/delete-board";
-import { FormDelete } from "./form-delete";
+import { FormDelete } from "./form-delete-old";
 
 interface BoardProps {
   id: string;
